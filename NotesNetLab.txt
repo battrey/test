@@ -1,0 +1,30 @@
+In regular networking we have 3 basic devices by function:
+
+*Hub - no config, no wifi 
+
+*Switch - with config only to LAN(local area network)
+	
+	- intention is to connect to computer and internet and needs a modem or a router to connect to the internet.
+
+*Router - with config(more config than switch), for LAN, and majority has Wifi
+	- WAN
+	- MAN
+
+Home Network:
+	modem - modulator demodulator
+	      - analog to digital; digital to analog
+	      - ex.DSL
+	
+	router - allows computers to connect to the internet 
+
+	modem router - combination of modem and router
+		     - allows computers to connect to the internet
+
+	WIFI Hotspots/Tethering - it's not a router and it's a modem
+				- uses 3G/4G connection
+
+Assignments:
+	How to config DHCP(Dynamic Host Configuration Protocol) server?
+	How to config static IP addressing on a LAN?
+	Difference between IP and Mac Address.
+	Default gateway, username;password		
