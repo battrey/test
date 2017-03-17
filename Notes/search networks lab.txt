@@ -6,3 +6,11 @@ Chapter 16: 404-440 (377-413)
 Activity: 427-431 (400-404)
 
 FTP: Page 451, 123
+
+A. install ftp
+
+B. Start ftp (Steps 1-8)
+
+C. Connect to the FTP server using a local system account(yyang pages 123 steps 1-6)
+
+D. Create sample virtual users named "ftp-user1" and "ftp-user2" (Steps 1-16)
